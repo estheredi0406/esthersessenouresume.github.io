@@ -1,0 +1,224 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(249, 234, 234); 
+
+
+}
+
+
+header {
+   
+    width: 100vw;
+    height: 10vw;
+    display: flex;
+}
+
+.navbar {
+    background-color: rgb(235, 130, 130);
+    width: 100vw;
+    display: flex;
+    position: relative;
+}
+
+.logo {
+    margin: 3.125rem; /* 50px */
+    font-weight: 3.125rem; /* 50px */
+    font-size: 1.875rem; /* 30px */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 1.25rem; /* 20px */
+}
+
+li {
+    margin: 0.5rem; /* 8px */
+    font-size: 0.9375rem; /* 15px */
+    
+    
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+.navigation {
+    background-color: transparent;
+    position: absolute;
+    right: 1.25rem; /* 20px */
+    top: 1.25rem; /* 20px */
+}
+
+h2{
+    margin: 4rem;
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.Education{
+    background-color: whitesmoke;
+    margin: 4rem;
+    padding: 2rem;
+    width: 80vw;
+    height: 12rem;
+    border-radius: 5px;
+    border: 0.2rem solid rgb(236, 229, 229);
+    border-top: none;
+
+}
+
+.Education h5{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Exp1{
+    background-color: transparent;
+}
+
+
+
+
+.Exp1 p{
+    margin-top:  0.5rem;
+
+}
+
+
+.Exp2{
+    margin-top: 2rem;
+}
+
+
+.Work_Experience{
+
+    background-color: whitesmoke;
+    margin: 4rem;
+    margin-top: 1rem;
+    padding: 2rem;
+    width: 80vw;
+    height: 18rem;
+    border-radius: 5px;
+    border: 0.2rem solid rgb(236, 229, 229);
+    border-top: none;
+
+}
+
+.Work_Experience h5{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.Work_Experience p{
+    margin-top: -1rem;
+
+}
+
+.Work_Experience .Exp2{
+    
+    padding: 0rem;
+}
+
+.Work_Experience h3{
+    padding-left: 0rem;         
+
+}
+
+.Work_Experience .Exp2 p{
+    margin-top: -1rem;
+}
+
+
+.Extra{
+
+    background-color: whitesmoke;
+    margin: 4rem;
+    margin-top: 1rem;
+    padding: 2rem;
+    width: 80vw;
+    height: 18rem;
+    border-radius: 5px;
+    border: 0.2rem solid rgb(236, 229, 229);
+    border-top: none;
+
+}
+
+.Extra h5{
+
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Extra .Exp1 p{
+    margin-top: -1rem;
+}
+
+.Extra .Exp2 p{
+    margin-top: -1rem;
+}
+
+.Skills{
+    background-color: whitesmoke;
+    margin: 4rem;
+    margin-top: 1rem;
+    padding: 2rem;
+    width: 80vw;
+    height: 10rem;
+    border-radius: 5px;
+    border: 0.2rem solid rgb(236, 229, 229);
+    border-top: none;
+
+}
+
+.Skills li{
+    font-size: 1.2rem;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 2rem;
+    
+}
+
+
+.Skills h5{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.button{
+    width: 3rem;
+    height: 3rem;
+    padding:1rem;
+    margin-top: 1rem;
+    background-color: beige;
+    border-radius: 50%;
+    position: relative;
+    right:-4rem;
+    top:-3rem;
+
+
+}
+
+
+.button h4{
+    text-decoration: none;
+    color: black;
+    
+ 
+}
+
+
